@@ -1,0 +1,2 @@
+person_id,person_name,department,award_salary,period_start,period_end,cert_record_id,signed_date,certifier_name,certifier_role,verification_method,payroll_period_start,payroll_period_end,activity_basis,variance_pct,adjustment_ref,retrieval_hours
+P0001,Example Person,Department name,48250.00,2026-01-01,2026-06-30,EC-0001,2026-07-21,Example Certifier,supervisor_pi,Reviewed monthly activity report,2026-01-01,2026-06-30,total,2.5,,4

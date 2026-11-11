@@ -1,0 +1,9 @@
+person_id,person_name,department,award_salary,period_start,period_end,cert_record_id,signed_date,certifier_name,certifier_role,verification_method,payroll_period_start,payroll_period_end,activity_basis,variance_pct,adjustment_ref,retrieval_hours
+P0001,Avery Example,Biology,48250.00,2026-01-01,2026-06-30,EC-0001,2026-07-21,Jordan Sample,supervisor_pi,Reviewed monthly activity report,2026-01-01,2026-06-30,total,2.5,,4
+P0002,Blake Sample,Biology,61200.00,2026-01-01,2026-06-30,EC-0002,2026-07-14,Jordan Sample,supervisor_pi,Reviewed monthly activity report,2026-01-01,2026-06-30,total,0.0,,3
+P0003,Casey Demo,Chemistry,39800.00,2026-01-01,2026-06-30,EC-0003,2026-10-30,Riley Placeholder,supervisor_pi,Reviewed monthly activity report,2026-01-01,2026-06-30,total,12.0,,6
+P0004,Drew Fictional,Chemistry,72500.00,2026-01-01,2026-06-30,,,,,,2026-01-01,2026-06-30,total,,,
+P0005,Emery Madeup,Physics,55000.00,2026-01-01,2026-06-30,EC-0005,2026-07-28,Emery Madeup,self,Self attestation,2026-01-01,2026-06-30,total,1.0,,2
+P0006,Finley Test,Physics,44100.00,2026-01-01,2026-06-30,EC-0006,2026-08-04,Quinn Invented,supervisor_pi,Reviewed monthly activity report,2026-01-01,2026-06-30,sponsored_only,4.0,,5
+P0007,Gray Example,Nursing,51900.00,2026-01-01,2026-06-30,EC-0007,2026-07-19,Morgan Notreal,supervisor_pi,Reviewed monthly activity report,2026-01-01,2026-06-30,total,15.5,ADJ-0007,8
+P0008,Harper Sample,Nursing,36700.00,2026-01-01,2026-06-30,EC-0008,2026-07-23,Morgan Notreal,supervisor_pi,Reviewed monthly activity report,2026-01-01,2026-06-30,total,3.0,,3
